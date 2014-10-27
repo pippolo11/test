@@ -1,6 +1,6 @@
 http://www.youtube.com/playlist?list=PLEsfXFp6DpzR6FatOy4RtoXfu4PeYO_RL
 
-fullcontact_api = 3558403aafc12f64 // 40c523ee8002bdc3 <-- mia
+
 
 import requests
 from bs4 import BeautifulSoup
